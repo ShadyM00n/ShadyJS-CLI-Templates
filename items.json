@@ -4,5 +4,11 @@
     "item_type": "   [ TEMPLATE ]",
     "item_display": "Vite React Tailwind",
     "itemId": "open-vrt0"
+  },
+    {
+    "pageId": "njsrtt0",
+    "item_type": "   [ TEMPLATE ]",
+    "item_display": "NextJS React Tailwind",
+    "itemId": "open-njsrtt0"
   }
 ]
