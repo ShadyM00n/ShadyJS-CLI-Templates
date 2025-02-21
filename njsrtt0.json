@@ -1,4 +1,22 @@
 {
   "path":"https://github.com/ShadyM00n/ShadyJS-CLI-Templates/{id}",
+    "files": [
+    "/README.md",
+    "/eslint.config.mjs",
+    "/jsconfig.json",
+    "/next.config.mjs",
+    "/package.json",
+    "/postcss.config.mjs",
+    "/tailwind.config.mjs",
+    "/public/file.svg",
+    "/public/globe.svg",
+    "/public/next.svg",
+    "/public/vercel.svg",
+    "/public/window.svg",
+    "/src/app/favicon.ico",
+    "/src/app/globals.css",
+    "/src/app/layout.js",
+    "/src/app/page.js"
+  ],
   "id": "njsrtt0"
 }
