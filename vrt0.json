@@ -1,7 +1,23 @@
 {
   "path":"https://github.com/ShadyM00n/ShadyJS-CLI-Templates/{id}",
     "files": [
-    "/config.json"
+    "/package.json"
   ], 
-  "id": "vrt0"
+  "id": "vrt0",
+  "dependencies": [
+    "vite",
+    "react",
+    "react-dom",
+    "react-router-dom",
+    "tailwindcss",
+    "globals",
+    "eslint-plugin-react-refresh",
+    "eslint-plugin-react-hooks",
+    "eslint-plugin-react",
+    "eslint",
+    "@vitejs/plugin-react",
+    "@types/react-dom",
+    "@types/react",
+    "@eslint/js"
+  ]
 }
