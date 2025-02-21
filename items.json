@@ -1,16 +1,12 @@
 [
   {
     "pageId": "vrt0",
-    "page_title": "Vite React Tailwindcss Template",
-    "title_color": "yellowBright",
     "item_type": "   [ TEMPLATE ]",
     "item_display": "Vite React Tailwind",
     "itemId": "open-vrt0"
   },
     {
     "pageId": "njsrtt0",
-    "page_title": "NextJS React Tailwindcss Template",
-    "title_color": "greenBright",
     "item_type": "   [ TEMPLATE ]",
     "item_display": "extJS React Tailwind",
     "itemId": "open-njsrtt0"
