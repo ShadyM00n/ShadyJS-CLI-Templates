@@ -1,7 +1,18 @@
 {
   "path":"https://github.com/ShadyM00n/ShadyJS-CLI-Templates/{id}",
     "files": [
-    "/package.json"
+    "/package.json",
+    "/vite.config.js",
+    "/tsconfig.json",
+    "/tsconfig.app.json",
+    "/index.html",
+    "/eslint.config.js",
+    "/.gitignore",
+    "/src/index.css",
+    "/src/main.jsx",
+    "/src/routes.jsx",
+    "/src/pages/index.jxs",
+    "/public/vite.svg"
   ], 
   "id": "vrt0"
 }
