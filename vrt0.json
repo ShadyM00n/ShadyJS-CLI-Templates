@@ -1,4 +1,7 @@
 {
   "path":"https://github.com/ShadyM00n/ShadyJS-CLI-Templates/{id}",
+    "files": [
+    "/config.json"
+  ], 
   "id": "vrt0"
 }
