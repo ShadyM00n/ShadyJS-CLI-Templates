@@ -8,6 +8,7 @@
     "/index.html",
     "/eslint.config.js",
     "/.gitignore",
+    "/tailwind.config.js",
     "/src/index.css",
     "/src/main.jsx",
     "/src/routes.jsx",
