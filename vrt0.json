@@ -11,7 +11,7 @@
     "/src/index.css",
     "/src/main.jsx",
     "/src/routes.jsx",
-    "/src/pages/index.jxs",
+    "/src/pages/index.jsx",
     "/public/vite.svg"
   ], 
   "id": "vrt0"
